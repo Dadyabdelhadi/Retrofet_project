@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="List_jury">
+        <item>J1 </item>
+        <item>J2</item>
+        <item>J3</item>
+        <item>J4</item>
+    </string-array>
+</resources>

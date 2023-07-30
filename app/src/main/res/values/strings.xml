@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjectsEval</string>
+    <string name="Titre_Editer">Editer notes</string>
+    <string name="Evalutions">Evalutions de projets</string>
+    <string name="idProjet">id projet</string>
+    <string name="titreProjet">titre de projet</string>
+    <string name="Jury">Jury</string>
+    <string name="notes">Note</string>
+    <string name="btnBack">Back</string>
+    <string name="bntSave">Save</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="Listedesprojets">Liste des projets</string>
+    <string name="textt">Clique sur un projet pour modifier ses notes</string>
+</resources>
